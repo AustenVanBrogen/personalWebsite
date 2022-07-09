@@ -3,13 +3,12 @@
     width: 100%;
     height: 20rem;
     overflow: hidden;
-    /* transform: translateX(-10px) translateY(-10px); */
     display: flex;
 }
 
 .opener .personName{
     font-size: 40px;
-    color: beige;
+    color: #FC8D68;
     text-align: center;
     margin:auto;
 }
@@ -20,8 +19,8 @@
 }
 
 .aboutMeSection .aboutMeHead{
-    color:lightcyan;
+    color:#FC8D68;
     margin: auto;
-    width: 25%;
+    text-align: center;
     padding: 10px;
 }

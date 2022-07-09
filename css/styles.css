@@ -2,11 +2,12 @@ body{
     height: 100%;
     width: 100%;
     margin: 0;
-    background-color: #A9A9A9;
+    background-color: #002D0B;
+    color: #68FC8B;
 }
 
 .mainNav{
-    background-color:hsl(300, 4%, 23%)
+    background-color:#FCF068
 }
 
 .mainNav ul{
@@ -19,5 +20,9 @@ body{
 .mainNav a{
     color: #b82b00;
     text-decoration: none;
-    padding: 1rem;
+    padding: 11px;
+}
+
+.mainNav a:hover{
+    background-color: #FC68B4
 }
