@@ -21,6 +21,12 @@
     padding: 10px;
 }
 
+.educationSchools .column{
+    margin: 10px;
+    display: inline-block;
+    vertical-align: top; 
+}
+
 img{
     border: 5px solid #006F73;
     float: left;
@@ -35,5 +41,6 @@ p{
     float:none;
     position: relative;
     right: -20px;
+    font-size: 130%;
 }
 
