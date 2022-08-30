@@ -24,5 +24,9 @@ body{
 }
 
 .mainNav a:hover{
-    background-color: #FC68B4
+    background-color: #FC68B4;
+    text-decoration: underline dotted;
 }
+
+img[src*="https://cdn.000webhost.com/000webhost/logo/footer-powered-by-000webhost-white2.png"] {
+    display: none;}
